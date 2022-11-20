@@ -10,7 +10,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fpt.m.wikipedia.org%2Fwiki%2FFicheiro%3AReact-icon.svg&psig=AOvVaw3Ucje7DHg4p4BzwC0_hze3&ust=1668989543828000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDA29i8u_sCFQAAAAAdAAAAABAE">
+  <img align="center" alt="React" height="30" width="40" src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png">
 </div>
  
  <br>
