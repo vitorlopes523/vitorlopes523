@@ -21,7 +21,6 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/vitor-lopes-de-matos-657261230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/vitor-lopes-de-matos-657261230/" target="_blank"><img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png"> target="_blank"></a>
  
   ![Snake animation](https://github.com/vitorlopes523/vitorlopes523/blob/output/github-contribution-grid-snake.svg)
 
