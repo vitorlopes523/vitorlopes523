@@ -1,6 +1,6 @@
 ### OLÁ, SEJA BEM-VINDO! 👋
 
-<div style="height: 100vh, display: flex , justify-content: center, align-items: center">
+<div>
    <a href="https://github.com/vitorlopes523">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorlopes523&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorlopes523&layout=compact&langs_count=6&theme=tokyonight"/>
