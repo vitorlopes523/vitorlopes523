@@ -13,7 +13,7 @@ Atualmente estou buscando me especializar em Data Science, estou explorando todo
 <div style="display: flex", "gap: 16px"><br>
   <img align="center" alt="Python" height="100" width="100" src="https://www.svgrepo.com/show/376344/python.svg">
      <img align="center" alt="Python" height="100" width="100" src="https://cdn-icons-png.flaticon.com/512/4824/4824797.png">
-  <img align="center" alt="Python" height="100" width="100" src="https://media.licdn.com/dms/image/D4D12AQHMMi6HliI0DA/article-cover_image-shrink_600_2000/0/1722328147479?e=2147483647&v=beta&t=r309ACBXqpynwJh5sgdW86b6gooETuzZokrkmgtHRc0">
+  <img align="center" alt="Python" height="100" width="100" src="https://www.clipartmax.com/png/small/148-1481647_learn-apache-spark-on-your-desktop-apache-spark-png.png">
 </div>
  
  <br>
