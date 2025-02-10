@@ -12,8 +12,8 @@
 Atualmente estou buscando me especializar em Data Science, estou explorando todo esse universo e entendendo os conceitos por trás dessa área tão fantástica, meu foco está em Machine Learning, Engenharia de Dados e Ciência de Dados.
 <div style="display: flex", "gap: 16px"><br>
   <img align="center" alt="Python" height="100" width="100" src="https://www.svgrepo.com/show/376344/python.svg">
-     <img align="center" alt="Python" height="100" width="100" src="https://cdn-icons-png.flaticon.com/512/4824/4824797.png">
-  <img align="center" alt="Python" height="100" width="100" src="https://www.google.com.br/imgres?q=Machine%20Learning%20logo&imgurl=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F923%2F684%2Fpng-clipart-chatbot-artificial-intelligence-technology-machine-learning-technology-electronics-logo.png&imgrefurl=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dmachine%2BLearning&docid=uziA4CvW4bPwvM&tbnid=XmRx6NkQ-VAOzM&vet=12ahUKEwi0v-bDtLmLAxUFrZUCHS75GSMQM3oECCIQAA..i&w=900&h=796&hcb=2&ved=2ahUKEwi0v-bDtLmLAxUFrZUCHS75GSMQM3oECCIQAA">
+     <img align="center" alt="DataScience" height="100" width="100" src="https://cdn-icons-png.flaticon.com/512/4824/4824797.png">
+  <img align="center" alt="Python" height="100" width="100" src="https://github.com/user-attachments/assets/779d1c76-f716-4a9d-a8d2-3d8ecf8f8883">
 </div>
  
  <br>
