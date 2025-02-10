@@ -12,7 +12,7 @@
 Atualmente estou buscando me especializar em Data Science, estou explorando todo esse universo e entendendo os conceitos por trás dessa área tão fantástica, meu foco está em Machine Learning, Engenharia de Dados e Ciência de Dados.
 <div style="display: flex", "gap: 16px"><br>
   <img align="center" alt="Python" height="100" width="100" src="https://www.svgrepo.com/show/376344/python.svg">
-  <img align="center" alt="Python" height="100" width="100" src="https://icon2.cleanpng.com/20180329/krq/avcqk2j0n.webp">
+  <img align="center" alt="Python" height="100" width="100" src="https://w7.pngwing.com/pngs/1/687/png-transparent-apache-spark-apache-http-server-scala-apache-software-foundation-data-processing-others-miscellaneous-text-orange-thumbnail.png">
 </div>
  
  <br>
