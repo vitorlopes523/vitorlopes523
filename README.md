@@ -9,7 +9,7 @@
 ### OBJETIVOS
 
 
-Atualmente estou buscando me especializar em Data Science, estou explorando todo esse universo e entendendo os conceitos por trás dessa área tão fantástica, meu foco está em Machine Learning, Engenharia de Dados e Ciência de Dados.
+Atualmente, estou me aprofundando na área de Ciência de Dados, explorando seus diversos caminhos e compreendendo os conceitos que sustentam esse campo tão promissor. Meu foco está voltado para Análise de Dados, Machine Learning, Engenharia de Dados e Data Science como um todo. Busco constantemente aplicar o que aprendo em projetos práticos, desenvolvendo habilidades técnicas e uma visão crítica orientada por dados.
 <div style="display: flex", "gap: 16px"><br>
   <img align="center" alt="Python" height="100" width="100" src="https://www.svgrepo.com/show/376344/python.svg">
    <img align="center" alt="DataScience" height="100" width="100" src="https://cdn-icons-png.flaticon.com/512/4824/4824797.png">
