@@ -40,7 +40,7 @@ Atualmente, estou me aprofundando na área de **Ciência de Dados**, explorando 
 ### 📈 [Análise de Dados com Power BI - Vendas Bemol](link-do-repo)
 Análise exploratória e criação de dashboards interativos usando dados de vendas fictícios para insights estratégicos.
 
-### 🤖 [Predição com Machine Learning - Previsão de Preços de Imóveis](https://colab.research.google.com/drive/1VWEPHz--nHQPRYamUn-OhHXo8Oigw_8h#scrollTo=B3FCO3XmLJzQ)
+### 🤖 [Predição com Machine Learning - Previsão de Preços de Imóveis](https://github.com/vitorlopes523/Predicao-com-Machine-Learning---Previsao-de-Precos-de-Imoveis)
 Projeto utilizando modelos de regressão para prever preços com base em características de imóveis.
 
 ### ⚙️ [Automação com Python e Azure Functions](link-do-repo)
