@@ -37,7 +37,7 @@ Atualmente, estou me aprofundando na área de **Ciência de Dados**, explorando 
 
 ## 📂 Projetos em Destaque
 
-### 📈 [Análise de Dados com Power BI - Vendas Bemol](link-do-repo)
+### 📈 [Análise de Dados com Power BI](link-do-repo)
 Análise exploratória e criação de dashboards interativos usando dados de vendas fictícios para insights estratégicos.
 
 ### 🤖 [Predição com Machine Learning - Previsão de Preços de Imóveis](https://github.com/vitorlopes523/Predicao-com-Machine-Learning---Previsao-de-Precos-de-Imoveis)
