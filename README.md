@@ -7,6 +7,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorlopes523&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorlopes523&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
+
 </p>
 
 <br>
@@ -20,7 +21,12 @@
 </p>
  
  <br>
-
+<p align="center">
+   <em>“Sem dados, você é apenas mais uma pessoa com uma opinião.”</em>
+  <br>
+— W. Edwards Deming
+</p>
+ 
 ---
 
 ## 🎯 Objetivos
