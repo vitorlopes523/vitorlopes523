@@ -1,27 +1,23 @@
-### OLÁ, SEJA BEM-VINDO! 👋
+<p align="center">
+  <a href="https://github.com/vitorlopes523">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorlopes523&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorlopes523&layout=compact&langs_count=6&theme=tokyonight"/>
+  </a>
+</p>
 
-<div>
-   <a href="https://github.com/vitorlopes523">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorlopes523&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorlopes523&layout=compact&langs_count=6&theme=tokyonight"/>
+<br>
 
-</div>
-
-<div style="display: flex", "gap: 16px"><br>
-   <img align="center" alt="DataScience" height="100" width="100" src="https://cdn-icons-png.flaticon.com/512/4824/4824797.png">
-   <img align="center" alt="Python" height="100" width="100" src="https://www.svgrepo.com/show/376344/python.svg">
-   <img align="center" alt="Python" height="100" width="100" src="https://github.com/user-attachments/assets/a9d2b3d6-b433-4733-b553-2a7374349c68">
-</div>
+<p align="center">
+  <img align="center" alt="DataScience" height="80" width="80" src="https://cdn-icons-png.flaticon.com/512/4824/4824797.png">
+  &nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Python" height="80" width="80" src="https://www.svgrepo.com/show/376344/python.svg">
+  &nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Outro" height="80" width="80" src="https://github.com/user-attachments/assets/a9d2b3d6-b433-4733-b553-2a7374349c68">
+</p>
  
  <br>
- 
-  ### Para saber mais 👇!
-<div> 
-  <a href="https://www.linkedin.com/in/vitor-lopes-657261230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/vitorlopes523/vitorlopes523/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+---
 
 ## 🎯 Objetivos
 
@@ -67,7 +63,7 @@ Automação de tarefas usando Python e Azure para extração e processamento de 
 - <div><a href="https://www.linkedin.com/in/vitor-lopes-657261230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 - <div>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" width="24" alt="LinkedIn">
-   (devvitorlopesdematos@gmail.com)
+   devvitorlopesdematos@gmail.com
 </div>
 
 ---
