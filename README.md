@@ -71,9 +71,12 @@ Automação de tarefas usando Python e Azure para extração e processamento de 
 
 ## 🤝 Conecte-se comigo
 
-- <div><a href="https://www.linkedin.com/in/vitor-lopes-657261230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 - <div>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" width="24" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/vitor-lopes-657261230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+- <div>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" width="24" alt="email">
    devvitorlopesdematos@gmail.com
 </div>
 
