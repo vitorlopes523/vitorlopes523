@@ -63,7 +63,8 @@ Automação de tarefas usando Python e Azure para extração e processamento de 
 ## 📚 Formação e Certificações
 
 - 🎓 Engenharia de Produção – UFAM
-- 💻 Estágio em Ciência de Dados – Bemol Digital
+- 🤖 Estágio em Ciência de Dados – Bemol Digital
+- 💻 Estágio em Engenharia de Software – Bemol Digital
 - 📊 Capacitação em Ciência de Dados – Cursos e treinamentos internos
 
 ---
