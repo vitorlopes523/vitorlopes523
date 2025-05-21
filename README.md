@@ -47,8 +47,8 @@ Atualmente, estou me aprofundando na área de **Ciência de Dados**, explorando 
 
 ## 📂 Projetos em Destaque
 
-### 📈 [Análise de Dados com Power BI](link-do-repo)
-Análise exploratória e criação de dashboards interativos usando dados de vendas fictícios para insights estratégicos.
+### ⏱️ [Análise de Séries Temporais: Anomalias e Previsão de Demanda](link-do-repo)
+Análise de séries temporais para prever a demanda de clientes em uma rede de restaurantes
 
 ### 🤖 [Predição com Machine Learning - Previsão de Preços de Imóveis](https://github.com/vitorlopes523/Predicao-com-Machine-Learning---Previsao-de-Precos-de-Imoveis)
 Projeto utilizando modelos de regressão para prever preços com base em características de imóveis.
